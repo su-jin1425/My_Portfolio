@@ -448,7 +448,7 @@ nav .inside_nav .link_container .theme_btn:hover {
 .hero .main .main_left .crossed_title_1 .goofy_line {
   stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
-  width: 240px;
+  width: 310px;
   height: 31px;
   transition: stroke-dashoffset 1s ease, stroke-dasharray 1s ease;
   position: absolute;
@@ -460,7 +460,7 @@ nav .inside_nav .link_container .theme_btn:hover {
   position: relative;
 }
 .hero .main .main_left .crossed_title_2 .sans_serif {
-  font-family: "Inter", sans-serif;
+  font-family: "Libre Caslon Text", serif;
   font-style: italic;
   font-weight: 300;
   margin-bottom: 25px;
