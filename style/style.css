@@ -104,6 +104,14 @@ nav {
   height: 70px;
   border-bottom: solid 3px var(--highlight-color);
 }
+nav a, .burger_slider a {
+    text-decoration: none;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
 nav .inside_nav {
   max-width: 1240px;
   width: 100%;

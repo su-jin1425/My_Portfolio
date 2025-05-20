@@ -128,10 +128,10 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  attachScrollAnimation(".target_about", "#aboutId");
-  attachScrollAnimation(".target_project", "#projectId");
-  attachScrollAnimation(".target_contact", "#contactId");
-  attachScrollAnimation(".scroll_text", "#aboutId");
+  attachScrollAnimation(".target_about", "#");
+  attachScrollAnimation(".target_project", "#");
+  attachScrollAnimation(".target_contact", "#");
+  attachScrollAnimation(".scroll_text", "#");
   attachScrollAnimation(".logo", 0, 0);
 
   const themeToggleButtons = document.querySelectorAll(".theme_btn");
